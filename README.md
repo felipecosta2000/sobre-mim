@@ -24,5 +24,5 @@ Spring MVC (Java), JSF(Java).
 # Ferramentas de Trabalho:
 Eclipse, Intellij, Visual Code, Git, SVN, NPM, Yarn, Trello, Jira, Postman, Insomnia.
 
-# Minhas Skills:
+# Skills:
 Java, Javascript, Typescript, Nodejs, HTML5, CSS, Bootstrap, React, Angular, MySQL, PostegreSQL, MongoDB.
